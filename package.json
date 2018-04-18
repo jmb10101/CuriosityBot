@@ -1,0 +1,11 @@
+{
+  "name": "Curiosity",
+  "version": "1.0.0",
+  "description": "Alpha Corp Curiosity Model A100",
+  "main": "bot.js",
+  "author": "jmb10101",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
